@@ -1,0 +1,24 @@
+#StopwatchDiv {
+    width: 400px;
+    height: 150px;
+    background-color: #222222;
+    border-radius: 25px;
+    border: 5px black solid;
+    text-align: center;
+}
+#timeLabel {
+    color: #40c437;
+    font-size: 75px;
+    font-family: consolas, monospace;
+    margin: 0px;
+}
+.stoperBtn {
+    width: 80px;
+    height: 40px;
+    background-color: #222222;
+    border-radius: 25px;
+    border: 5px solid;
+    color: white;
+    margin: 0px 5px 0px 5px;
+    font-weight: bold;
+}
